@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "922542653346",
+    "firebase_url": "https://mirder-eb752-default-rtdb.firebaseio.com",
+    "project_id": "mirder-eb752",
+    "storage_bucket": "mirder-eb752.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922542653346:android:efe19ce0641f50beb33cfb",
+        "android_client_info": {
+          "package_name": "com.mirder.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922542653346-qpfr7keb0mue85gt54uiq9tr838bn8qg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mirder.app",
+            "certificate_hash": "7ea0375c6a42e642499f26528579c50adb96b8f8"
+          }
+        },
+        {
+          "client_id": "922542653346-60re302g3cr6a1puk6si29mieiql9r79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAupG5w8gI469GapaonzPNifx9saqy6zKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922542653346-60re302g3cr6a1puk6si29mieiql9r79.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "922542653346-99c58fv1tpvi07p2r5ilo14v279381r1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mirder.com"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
